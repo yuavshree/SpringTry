@@ -11,4 +11,7 @@ public class SpringController {
 	public String home() {
 		return "happydiwali";
 	}
+	public void add() {
+		
+	}
 }
